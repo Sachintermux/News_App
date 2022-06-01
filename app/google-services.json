@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "719011670700",
+    "project_id": "news-app-674f2",
+    "storage_bucket": "news-app-674f2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:719011670700:android:7c885a92851b2cdbc9cd09",
+        "android_client_info": {
+          "package_name": "com.sna.newsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "719011670700-ie44ad9srs65dlh8uocsdl86kgn88gpr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDczAKqgsIlATM-rBdEk25jy_W3CNKOAdk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "719011670700-ie44ad9srs65dlh8uocsdl86kgn88gpr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
